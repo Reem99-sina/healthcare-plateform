@@ -1,8 +1,8 @@
-import { Blood } from "@/assets";
+
 import AppointmentsSummary from "@/components/common/apointment/apointment";
 import BookingModal from "@/components/common/booking/booking-modal";
 import DoctorDirectory from "@/components/common/home/doctors";
-import ImageComponent from "@/components/common/image-component";
+
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Doctor } from "@/lib/types";
 import { useState } from "react";

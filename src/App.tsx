@@ -3,7 +3,6 @@ import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import Home from "./page/Home";
 import MainHeader from "./components/common/main-header";
-import Footer from "./components/common/footer";
 
 function App() {
 
